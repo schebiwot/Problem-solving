@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\obj\Debug\netcoreapp3.1\alternatingCoins.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\obj\Debug\netcoreapp3.1\alternatingCoins.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\obj\Debug\netcoreapp3.1\alternatingCoins.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\obj\Debug\netcoreapp3.1\alternatingCoins.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\bin\Debug\netcoreapp3.1\alternatingCoins.exe
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\bin\Debug\netcoreapp3.1\alternatingCoins.deps.json
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\bin\Debug\netcoreapp3.1\alternatingCoins.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\bin\Debug\netcoreapp3.1\alternatingCoins.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\bin\Debug\netcoreapp3.1\alternatingCoins.dll
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\bin\Debug\netcoreapp3.1\alternatingCoins.pdb
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\obj\Debug\netcoreapp3.1\alternatingCoins.dll
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\obj\Debug\netcoreapp3.1\alternatingCoins.pdb
+C:\Users\Tech Jargon\source\repos\alternatingCoins\alternatingCoins\obj\Debug\netcoreapp3.1\alternatingCoins.genruntimeconfig.cache

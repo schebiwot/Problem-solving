@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\bin\Debug\netcoreapp3.1\min window substring.exe
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\bin\Debug\netcoreapp3.1\min window substring.deps.json
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\bin\Debug\netcoreapp3.1\min window substring.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\bin\Debug\netcoreapp3.1\min window substring.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\bin\Debug\netcoreapp3.1\min window substring.dll
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\bin\Debug\netcoreapp3.1\min window substring.pdb
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\obj\Debug\netcoreapp3.1\min window substring.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\obj\Debug\netcoreapp3.1\min window substring.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\obj\Debug\netcoreapp3.1\min window substring.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\obj\Debug\netcoreapp3.1\min window substring.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\obj\Debug\netcoreapp3.1\min window substring.dll
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\obj\Debug\netcoreapp3.1\min window substring.pdb
+C:\Users\Tech Jargon\source\repos\min window substring\min window substring\obj\Debug\netcoreapp3.1\min window substring.genruntimeconfig.cache

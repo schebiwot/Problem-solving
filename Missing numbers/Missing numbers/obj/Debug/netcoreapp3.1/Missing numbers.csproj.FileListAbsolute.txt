@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\bin\Debug\netcoreapp3.1\Missing numbers.exe
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\bin\Debug\netcoreapp3.1\Missing numbers.deps.json
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\bin\Debug\netcoreapp3.1\Missing numbers.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\bin\Debug\netcoreapp3.1\Missing numbers.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\bin\Debug\netcoreapp3.1\Missing numbers.dll
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\bin\Debug\netcoreapp3.1\Missing numbers.pdb
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\obj\Debug\netcoreapp3.1\Missing numbers.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\obj\Debug\netcoreapp3.1\Missing numbers.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\obj\Debug\netcoreapp3.1\Missing numbers.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\obj\Debug\netcoreapp3.1\Missing numbers.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\obj\Debug\netcoreapp3.1\Missing numbers.dll
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\obj\Debug\netcoreapp3.1\Missing numbers.pdb
+C:\Users\Tech Jargon\source\repos\Missing numbers\Missing numbers\obj\Debug\netcoreapp3.1\Missing numbers.genruntimeconfig.cache

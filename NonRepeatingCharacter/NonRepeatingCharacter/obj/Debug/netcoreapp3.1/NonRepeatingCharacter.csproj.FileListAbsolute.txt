@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\bin\Debug\netcoreapp3.1\NonRepeatingCharacter.exe
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\bin\Debug\netcoreapp3.1\NonRepeatingCharacter.deps.json
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\bin\Debug\netcoreapp3.1\NonRepeatingCharacter.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\bin\Debug\netcoreapp3.1\NonRepeatingCharacter.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\bin\Debug\netcoreapp3.1\NonRepeatingCharacter.dll
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\bin\Debug\netcoreapp3.1\NonRepeatingCharacter.pdb
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\netcoreapp3.1\NonRepeatingCharacter.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\netcoreapp3.1\NonRepeatingCharacter.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\netcoreapp3.1\NonRepeatingCharacter.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\netcoreapp3.1\NonRepeatingCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\netcoreapp3.1\NonRepeatingCharacter.dll
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\netcoreapp3.1\NonRepeatingCharacter.pdb
+C:\Users\Tech Jargon\source\repos\NonRepeatingCharacter\NonRepeatingCharacter\obj\Debug\netcoreapp3.1\NonRepeatingCharacter.genruntimeconfig.cache

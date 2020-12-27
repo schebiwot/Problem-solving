@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYab1UollYmpy5EqxYADEHw1rFkcC9NVOG1z/EAyAFyHBEA3rRsvdq2Szv6EfsGjdiwZLds9oknSrhLhGQ1mJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\Divisors\\Divisors\\Divisors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

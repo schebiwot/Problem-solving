@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\bin\Debug\netcoreapp3.1\LongestIncreasingsequence.exe
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\bin\Debug\netcoreapp3.1\LongestIncreasingsequence.deps.json
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\bin\Debug\netcoreapp3.1\LongestIncreasingsequence.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\bin\Debug\netcoreapp3.1\LongestIncreasingsequence.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\bin\Debug\netcoreapp3.1\LongestIncreasingsequence.dll
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\bin\Debug\netcoreapp3.1\LongestIncreasingsequence.pdb
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\obj\Debug\netcoreapp3.1\LongestIncreasingsequence.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\obj\Debug\netcoreapp3.1\LongestIncreasingsequence.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\obj\Debug\netcoreapp3.1\LongestIncreasingsequence.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\obj\Debug\netcoreapp3.1\LongestIncreasingsequence.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\obj\Debug\netcoreapp3.1\LongestIncreasingsequence.dll
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\obj\Debug\netcoreapp3.1\LongestIncreasingsequence.pdb
+C:\Users\Tech Jargon\source\repos\LongestIncreasingsequence\LongestIncreasingsequence\obj\Debug\netcoreapp3.1\LongestIncreasingsequence.genruntimeconfig.cache

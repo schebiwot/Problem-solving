@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MoveZerosToEnd/1.0.0": {
+        "runtime": {
+          "MoveZerosToEnd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoveZerosToEnd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

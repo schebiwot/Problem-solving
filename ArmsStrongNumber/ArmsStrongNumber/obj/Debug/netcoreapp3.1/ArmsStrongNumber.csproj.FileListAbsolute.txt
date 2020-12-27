@@ -1,0 +1,12 @@
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\bin\Debug\netcoreapp3.1\ArmsStrongNumber.exe
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\bin\Debug\netcoreapp3.1\ArmsStrongNumber.deps.json
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\bin\Debug\netcoreapp3.1\ArmsStrongNumber.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\bin\Debug\netcoreapp3.1\ArmsStrongNumber.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\bin\Debug\netcoreapp3.1\ArmsStrongNumber.dll
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\bin\Debug\netcoreapp3.1\ArmsStrongNumber.pdb
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\obj\Debug\netcoreapp3.1\ArmsStrongNumber.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\obj\Debug\netcoreapp3.1\ArmsStrongNumber.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\obj\Debug\netcoreapp3.1\ArmsStrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\obj\Debug\netcoreapp3.1\ArmsStrongNumber.dll
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\obj\Debug\netcoreapp3.1\ArmsStrongNumber.pdb
+C:\Users\Tech Jargon\source\repos\ArmsStrongNumber\ArmsStrongNumber\obj\Debug\netcoreapp3.1\ArmsStrongNumber.genruntimeconfig.cache

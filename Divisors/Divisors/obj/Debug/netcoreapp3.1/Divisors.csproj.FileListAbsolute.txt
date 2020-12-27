@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\bin\Debug\netcoreapp3.1\Divisors.exe
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\bin\Debug\netcoreapp3.1\Divisors.deps.json
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\bin\Debug\netcoreapp3.1\Divisors.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\bin\Debug\netcoreapp3.1\Divisors.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\bin\Debug\netcoreapp3.1\Divisors.dll
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\bin\Debug\netcoreapp3.1\Divisors.pdb
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\obj\Debug\netcoreapp3.1\Divisors.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\obj\Debug\netcoreapp3.1\Divisors.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\obj\Debug\netcoreapp3.1\Divisors.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\obj\Debug\netcoreapp3.1\Divisors.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\obj\Debug\netcoreapp3.1\Divisors.dll
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\obj\Debug\netcoreapp3.1\Divisors.pdb
+C:\Users\Tech Jargon\source\repos\Divisors\Divisors\obj\Debug\netcoreapp3.1\Divisors.genruntimeconfig.cache

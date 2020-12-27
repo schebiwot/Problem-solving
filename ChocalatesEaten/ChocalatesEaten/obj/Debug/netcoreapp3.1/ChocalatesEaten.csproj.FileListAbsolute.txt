@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\bin\Debug\netcoreapp3.1\ChocalatesEaten.exe
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\bin\Debug\netcoreapp3.1\ChocalatesEaten.deps.json
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\bin\Debug\netcoreapp3.1\ChocalatesEaten.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\bin\Debug\netcoreapp3.1\ChocalatesEaten.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\bin\Debug\netcoreapp3.1\ChocalatesEaten.dll
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\bin\Debug\netcoreapp3.1\ChocalatesEaten.pdb
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\obj\Debug\netcoreapp3.1\ChocalatesEaten.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\obj\Debug\netcoreapp3.1\ChocalatesEaten.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\obj\Debug\netcoreapp3.1\ChocalatesEaten.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\obj\Debug\netcoreapp3.1\ChocalatesEaten.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\obj\Debug\netcoreapp3.1\ChocalatesEaten.dll
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\obj\Debug\netcoreapp3.1\ChocalatesEaten.pdb
+C:\Users\Tech Jargon\source\repos\ChocalatesEaten\ChocalatesEaten\obj\Debug\netcoreapp3.1\ChocalatesEaten.genruntimeconfig.cache

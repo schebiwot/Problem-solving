@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\obj\Debug\netcoreapp3.1\LongestPalindromicsubstring.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\obj\Debug\netcoreapp3.1\LongestPalindromicsubstring.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\obj\Debug\netcoreapp3.1\LongestPalindromicsubstring.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\bin\Debug\netcoreapp3.1\LongestPalindromicsubstring.exe
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\bin\Debug\netcoreapp3.1\LongestPalindromicsubstring.deps.json
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\bin\Debug\netcoreapp3.1\LongestPalindromicsubstring.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\bin\Debug\netcoreapp3.1\LongestPalindromicsubstring.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\bin\Debug\netcoreapp3.1\LongestPalindromicsubstring.dll
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\bin\Debug\netcoreapp3.1\LongestPalindromicsubstring.pdb
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\obj\Debug\netcoreapp3.1\LongestPalindromicsubstring.dll
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\obj\Debug\netcoreapp3.1\LongestPalindromicsubstring.pdb
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\obj\Debug\netcoreapp3.1\LongestPalindromicsubstring.genruntimeconfig.cache
+C:\Users\Tech Jargon\source\repos\LongestPalindromicsubstring\LongestPalindromicsubstring\obj\Debug\netcoreapp3.1\LongestPalindromicsubstring.csprojAssemblyReference.cache

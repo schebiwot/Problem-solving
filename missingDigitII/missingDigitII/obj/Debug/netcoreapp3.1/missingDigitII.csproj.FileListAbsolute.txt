@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\bin\Debug\netcoreapp3.1\missingDigitII.exe
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\bin\Debug\netcoreapp3.1\missingDigitII.deps.json
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\bin\Debug\netcoreapp3.1\missingDigitII.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\bin\Debug\netcoreapp3.1\missingDigitII.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\bin\Debug\netcoreapp3.1\missingDigitII.dll
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\bin\Debug\netcoreapp3.1\missingDigitII.pdb
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\obj\Debug\netcoreapp3.1\missingDigitII.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\obj\Debug\netcoreapp3.1\missingDigitII.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\obj\Debug\netcoreapp3.1\missingDigitII.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\obj\Debug\netcoreapp3.1\missingDigitII.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\obj\Debug\netcoreapp3.1\missingDigitII.dll
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\obj\Debug\netcoreapp3.1\missingDigitII.pdb
+C:\Users\Tech Jargon\source\repos\missingDigitII\missingDigitII\obj\Debug\netcoreapp3.1\missingDigitII.genruntimeconfig.cache

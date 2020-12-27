@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "17uUenECppIti/ZCbiyaI1SyeIx2155RQYE628Psxm8AOQculOgijirf3v1CrvnI5MB5vuCb+94H3FZB4DpxXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\BinaryTree\\BinaryTree\\BinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

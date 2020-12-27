@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xm6WhUwcl1hLD49XGdoZqqZsREJODJXAAGIBRUwoziFZNIIqO3IXFGI8jyr8vCcwCHgXTvEnKwwPRJrzJ+qOww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\maxsubarray contigous\\maxsubarray contigous\\maxsubarray contigous.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

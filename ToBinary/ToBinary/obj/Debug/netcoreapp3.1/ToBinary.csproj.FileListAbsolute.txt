@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.exe
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.deps.json
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.dll
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.pdb
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.dll
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.pdb
+C:\Users\Tech Jargon\source\repos\ToBinary\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.genruntimeconfig.cache

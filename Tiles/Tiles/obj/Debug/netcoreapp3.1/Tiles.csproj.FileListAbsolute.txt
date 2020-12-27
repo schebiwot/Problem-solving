@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\bin\Debug\netcoreapp3.1\Tiles.exe
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\bin\Debug\netcoreapp3.1\Tiles.deps.json
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\bin\Debug\netcoreapp3.1\Tiles.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\bin\Debug\netcoreapp3.1\Tiles.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\bin\Debug\netcoreapp3.1\Tiles.dll
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\bin\Debug\netcoreapp3.1\Tiles.pdb
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\obj\Debug\netcoreapp3.1\Tiles.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\obj\Debug\netcoreapp3.1\Tiles.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\obj\Debug\netcoreapp3.1\Tiles.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\obj\Debug\netcoreapp3.1\Tiles.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\obj\Debug\netcoreapp3.1\Tiles.dll
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\obj\Debug\netcoreapp3.1\Tiles.pdb
+C:\Users\Tech Jargon\source\repos\Tiles\Tiles\obj\Debug\netcoreapp3.1\Tiles.genruntimeconfig.cache

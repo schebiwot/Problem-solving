@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TtUj6zpP44hYpNMN7G4ZdfNIP4Ma8Ya8l9qSvWn8AH/2fq4ay8zL6SAzTJ6qhrMRmI12wZckmYZ/i6P2x5CjCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\stringPeriod\\stringPeriod\\stringPeriod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

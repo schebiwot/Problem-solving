@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZoOfQPiLM37wJ4aR6W/5OQI9mymR4Hv4v3PpC0vVYeu7PVqal7inz2QN6zf46hMBZAJve5x4Kp/DA0iN+PYYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\missingDigitII\\missingDigitII\\missingDigitII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

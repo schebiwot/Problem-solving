@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VlQ5725Rm3wu0Wd6MIHas1ERe2Jw/sYJan0257kMC1IdZAGZvNd279B72F+0UHvTyve3ddoEcNtWltT6hHJgZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\DecrementIncrement\\DecrementIncrement\\DecrementIncrement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

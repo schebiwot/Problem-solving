@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kf76/ZKh7GAItMutpMtSxcdMLaHl62qZPYijWQ0nN1ZMOXkUoTZuarYiS1fcm4sPjnyQU9JeHj2u9sYVfRpd7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\countsemiprimes\\countsemiprimes\\countsemiprimes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

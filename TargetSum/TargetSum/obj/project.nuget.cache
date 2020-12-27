@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "shzSjOWI9dJs64Xk+SS0EnsEER/U5QCFne2z2golOuXPy02iZqQ0TN76DZ063KJF3YSwOzkZdhmd5xjYCs0Cqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\TargetSum\\TargetSum\\TargetSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

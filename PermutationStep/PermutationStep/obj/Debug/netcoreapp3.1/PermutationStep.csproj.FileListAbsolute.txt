@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\bin\Debug\netcoreapp3.1\PermutationStep.exe
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\bin\Debug\netcoreapp3.1\PermutationStep.deps.json
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\bin\Debug\netcoreapp3.1\PermutationStep.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\bin\Debug\netcoreapp3.1\PermutationStep.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\bin\Debug\netcoreapp3.1\PermutationStep.dll
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\bin\Debug\netcoreapp3.1\PermutationStep.pdb
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\obj\Debug\netcoreapp3.1\PermutationStep.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\obj\Debug\netcoreapp3.1\PermutationStep.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\obj\Debug\netcoreapp3.1\PermutationStep.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\obj\Debug\netcoreapp3.1\PermutationStep.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\obj\Debug\netcoreapp3.1\PermutationStep.dll
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\obj\Debug\netcoreapp3.1\PermutationStep.pdb
+C:\Users\Tech Jargon\source\repos\PermutationStep\PermutationStep\obj\Debug\netcoreapp3.1\PermutationStep.genruntimeconfig.cache

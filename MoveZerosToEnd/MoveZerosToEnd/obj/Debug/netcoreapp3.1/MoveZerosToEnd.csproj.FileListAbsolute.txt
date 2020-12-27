@@ -1,0 +1,12 @@
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\bin\Debug\netcoreapp3.1\MoveZerosToEnd.exe
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\bin\Debug\netcoreapp3.1\MoveZerosToEnd.deps.json
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\bin\Debug\netcoreapp3.1\MoveZerosToEnd.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\bin\Debug\netcoreapp3.1\MoveZerosToEnd.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\bin\Debug\netcoreapp3.1\MoveZerosToEnd.dll
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\bin\Debug\netcoreapp3.1\MoveZerosToEnd.pdb
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\obj\Debug\netcoreapp3.1\MoveZerosToEnd.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\obj\Debug\netcoreapp3.1\MoveZerosToEnd.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\obj\Debug\netcoreapp3.1\MoveZerosToEnd.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\obj\Debug\netcoreapp3.1\MoveZerosToEnd.dll
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\obj\Debug\netcoreapp3.1\MoveZerosToEnd.pdb
+C:\Users\Tech Jargon\source\repos\MoveZerosToEnd\MoveZerosToEnd\obj\Debug\netcoreapp3.1\MoveZerosToEnd.genruntimeconfig.cache

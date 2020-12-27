@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\bin\Debug\netcoreapp3.1\majorityElements.exe
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\bin\Debug\netcoreapp3.1\majorityElements.deps.json
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\bin\Debug\netcoreapp3.1\majorityElements.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\bin\Debug\netcoreapp3.1\majorityElements.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\bin\Debug\netcoreapp3.1\majorityElements.dll
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\bin\Debug\netcoreapp3.1\majorityElements.pdb
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\obj\Debug\netcoreapp3.1\majorityElements.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\obj\Debug\netcoreapp3.1\majorityElements.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\obj\Debug\netcoreapp3.1\majorityElements.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\obj\Debug\netcoreapp3.1\majorityElements.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\obj\Debug\netcoreapp3.1\majorityElements.dll
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\obj\Debug\netcoreapp3.1\majorityElements.pdb
+C:\Users\Tech Jargon\source\repos\majorityElements\majorityElements\obj\Debug\netcoreapp3.1\majorityElements.genruntimeconfig.cache

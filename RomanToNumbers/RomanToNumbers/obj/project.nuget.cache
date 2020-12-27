@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSql3/i54OAOd+qndT9r9/LhmqTiWz2WpBv65xhm0HBw9uHA+mQ2H4IafbXmBO3NHP86FGuEGk1dPCba6K7RzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\RomanToNumbers\\RomanToNumbers\\RomanToNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

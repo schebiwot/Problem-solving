@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pz9tC0PELznu1lS+nU9IgS7o8/Inrb4jt6I9OJJXX8V35dA19D5KnS3Wi5BmkY8XyXFqF06crOfGkDTUXXgmaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\RemoveBrackets\\RemoveBrackets\\RemoveBrackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

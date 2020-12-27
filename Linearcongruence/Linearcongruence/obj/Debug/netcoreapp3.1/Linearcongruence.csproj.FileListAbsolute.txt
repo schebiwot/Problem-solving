@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\bin\Debug\netcoreapp3.1\Linearcongruence.exe
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\bin\Debug\netcoreapp3.1\Linearcongruence.deps.json
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\bin\Debug\netcoreapp3.1\Linearcongruence.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\bin\Debug\netcoreapp3.1\Linearcongruence.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\bin\Debug\netcoreapp3.1\Linearcongruence.dll
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\bin\Debug\netcoreapp3.1\Linearcongruence.pdb
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\obj\Debug\netcoreapp3.1\Linearcongruence.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\obj\Debug\netcoreapp3.1\Linearcongruence.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\obj\Debug\netcoreapp3.1\Linearcongruence.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\obj\Debug\netcoreapp3.1\Linearcongruence.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\obj\Debug\netcoreapp3.1\Linearcongruence.dll
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\obj\Debug\netcoreapp3.1\Linearcongruence.pdb
+C:\Users\Tech Jargon\source\repos\Linearcongruence\Linearcongruence\obj\Debug\netcoreapp3.1\Linearcongruence.genruntimeconfig.cache

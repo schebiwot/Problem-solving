@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\obj\Debug\netcoreapp3.1\OddNumberAppearance.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\obj\Debug\netcoreapp3.1\OddNumberAppearance.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\obj\Debug\netcoreapp3.1\OddNumberAppearance.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\obj\Debug\netcoreapp3.1\OddNumberAppearance.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\bin\Debug\netcoreapp3.1\OddNumberAppearance.exe
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\bin\Debug\netcoreapp3.1\OddNumberAppearance.deps.json
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\bin\Debug\netcoreapp3.1\OddNumberAppearance.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\bin\Debug\netcoreapp3.1\OddNumberAppearance.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\bin\Debug\netcoreapp3.1\OddNumberAppearance.dll
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\bin\Debug\netcoreapp3.1\OddNumberAppearance.pdb
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\obj\Debug\netcoreapp3.1\OddNumberAppearance.dll
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\obj\Debug\netcoreapp3.1\OddNumberAppearance.pdb
+C:\Users\Tech Jargon\source\repos\OddNumberAppearance\OddNumberAppearance\obj\Debug\netcoreapp3.1\OddNumberAppearance.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d48UmluIgZQzj6RD+VSliBPSPevBCbz2DnfRajdshNQDMe6Oui7nkEGYHQFJyp/ipjbJfq1lEKR2A8+HJxCDEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\Trainplatforms\\Trainplatforms\\Trainplatforms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

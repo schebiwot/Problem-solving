@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\bin\Debug\netcoreapp3.1\StairWays.exe
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\bin\Debug\netcoreapp3.1\StairWays.deps.json
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\bin\Debug\netcoreapp3.1\StairWays.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\bin\Debug\netcoreapp3.1\StairWays.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\bin\Debug\netcoreapp3.1\StairWays.dll
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\bin\Debug\netcoreapp3.1\StairWays.pdb
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\obj\Debug\netcoreapp3.1\StairWays.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\obj\Debug\netcoreapp3.1\StairWays.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\obj\Debug\netcoreapp3.1\StairWays.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\obj\Debug\netcoreapp3.1\StairWays.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\obj\Debug\netcoreapp3.1\StairWays.dll
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\obj\Debug\netcoreapp3.1\StairWays.pdb
+C:\Users\Tech Jargon\source\repos\StairWays\StairWays\obj\Debug\netcoreapp3.1\StairWays.genruntimeconfig.cache

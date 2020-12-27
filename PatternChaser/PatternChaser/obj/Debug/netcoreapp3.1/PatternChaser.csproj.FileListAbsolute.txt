@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\bin\Debug\netcoreapp3.1\PatternChaser.exe
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\bin\Debug\netcoreapp3.1\PatternChaser.deps.json
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\bin\Debug\netcoreapp3.1\PatternChaser.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\bin\Debug\netcoreapp3.1\PatternChaser.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\bin\Debug\netcoreapp3.1\PatternChaser.dll
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\bin\Debug\netcoreapp3.1\PatternChaser.pdb
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\obj\Debug\netcoreapp3.1\PatternChaser.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\obj\Debug\netcoreapp3.1\PatternChaser.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\obj\Debug\netcoreapp3.1\PatternChaser.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\obj\Debug\netcoreapp3.1\PatternChaser.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\obj\Debug\netcoreapp3.1\PatternChaser.dll
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\obj\Debug\netcoreapp3.1\PatternChaser.pdb
+C:\Users\Tech Jargon\source\repos\PatternChaser\PatternChaser\obj\Debug\netcoreapp3.1\PatternChaser.genruntimeconfig.cache

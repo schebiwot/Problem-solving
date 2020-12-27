@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\bin\Debug\netcoreapp3.1\multiplenumber.exe
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\bin\Debug\netcoreapp3.1\multiplenumber.deps.json
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\bin\Debug\netcoreapp3.1\multiplenumber.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\bin\Debug\netcoreapp3.1\multiplenumber.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\bin\Debug\netcoreapp3.1\multiplenumber.dll
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\bin\Debug\netcoreapp3.1\multiplenumber.pdb
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\obj\Debug\netcoreapp3.1\multiplenumber.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\obj\Debug\netcoreapp3.1\multiplenumber.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\obj\Debug\netcoreapp3.1\multiplenumber.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\obj\Debug\netcoreapp3.1\multiplenumber.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\obj\Debug\netcoreapp3.1\multiplenumber.dll
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\obj\Debug\netcoreapp3.1\multiplenumber.pdb
+C:\Users\Tech Jargon\source\repos\multiplenumber\multiplenumber\obj\Debug\netcoreapp3.1\multiplenumber.genruntimeconfig.cache

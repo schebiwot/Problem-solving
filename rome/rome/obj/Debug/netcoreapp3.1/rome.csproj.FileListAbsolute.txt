@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\rome\rome\bin\Debug\netcoreapp3.1\rome.exe
+C:\Users\Tech Jargon\source\repos\rome\rome\bin\Debug\netcoreapp3.1\rome.deps.json
+C:\Users\Tech Jargon\source\repos\rome\rome\bin\Debug\netcoreapp3.1\rome.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\rome\rome\bin\Debug\netcoreapp3.1\rome.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\rome\rome\bin\Debug\netcoreapp3.1\rome.dll
+C:\Users\Tech Jargon\source\repos\rome\rome\bin\Debug\netcoreapp3.1\rome.pdb
+C:\Users\Tech Jargon\source\repos\rome\rome\obj\Debug\netcoreapp3.1\rome.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\rome\rome\obj\Debug\netcoreapp3.1\rome.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\rome\rome\obj\Debug\netcoreapp3.1\rome.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\rome\rome\obj\Debug\netcoreapp3.1\rome.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\rome\rome\obj\Debug\netcoreapp3.1\rome.dll
+C:\Users\Tech Jargon\source\repos\rome\rome\obj\Debug\netcoreapp3.1\rome.pdb
+C:\Users\Tech Jargon\source\repos\rome\rome\obj\Debug\netcoreapp3.1\rome.genruntimeconfig.cache

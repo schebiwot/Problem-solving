@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\bin\Debug\netcoreapp3.1\RemoveBrackets.exe
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\bin\Debug\netcoreapp3.1\RemoveBrackets.deps.json
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\bin\Debug\netcoreapp3.1\RemoveBrackets.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\bin\Debug\netcoreapp3.1\RemoveBrackets.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\bin\Debug\netcoreapp3.1\RemoveBrackets.dll
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\bin\Debug\netcoreapp3.1\RemoveBrackets.pdb
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\obj\Debug\netcoreapp3.1\RemoveBrackets.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\obj\Debug\netcoreapp3.1\RemoveBrackets.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\obj\Debug\netcoreapp3.1\RemoveBrackets.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\obj\Debug\netcoreapp3.1\RemoveBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\obj\Debug\netcoreapp3.1\RemoveBrackets.dll
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\obj\Debug\netcoreapp3.1\RemoveBrackets.pdb
+C:\Users\Tech Jargon\source\repos\RemoveBrackets\RemoveBrackets\obj\Debug\netcoreapp3.1\RemoveBrackets.genruntimeconfig.cache

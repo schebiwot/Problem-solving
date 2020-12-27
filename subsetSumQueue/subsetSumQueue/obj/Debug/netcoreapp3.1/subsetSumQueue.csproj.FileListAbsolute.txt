@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\obj\Debug\netcoreapp3.1\subsetSumQueue.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\obj\Debug\netcoreapp3.1\subsetSumQueue.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\obj\Debug\netcoreapp3.1\subsetSumQueue.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\obj\Debug\netcoreapp3.1\subsetSumQueue.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\bin\Debug\netcoreapp3.1\subsetSumQueue.exe
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\bin\Debug\netcoreapp3.1\subsetSumQueue.deps.json
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\bin\Debug\netcoreapp3.1\subsetSumQueue.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\bin\Debug\netcoreapp3.1\subsetSumQueue.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\bin\Debug\netcoreapp3.1\subsetSumQueue.dll
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\bin\Debug\netcoreapp3.1\subsetSumQueue.pdb
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\obj\Debug\netcoreapp3.1\subsetSumQueue.dll
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\obj\Debug\netcoreapp3.1\subsetSumQueue.pdb
+C:\Users\Tech Jargon\source\repos\subsetSumQueue\subsetSumQueue\obj\Debug\netcoreapp3.1\subsetSumQueue.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\bin\Debug\netcoreapp3.1\minimummoves.exe
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\bin\Debug\netcoreapp3.1\minimummoves.deps.json
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\bin\Debug\netcoreapp3.1\minimummoves.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\bin\Debug\netcoreapp3.1\minimummoves.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\bin\Debug\netcoreapp3.1\minimummoves.dll
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\bin\Debug\netcoreapp3.1\minimummoves.pdb
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\obj\Debug\netcoreapp3.1\minimummoves.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\obj\Debug\netcoreapp3.1\minimummoves.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\obj\Debug\netcoreapp3.1\minimummoves.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\obj\Debug\netcoreapp3.1\minimummoves.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\obj\Debug\netcoreapp3.1\minimummoves.dll
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\obj\Debug\netcoreapp3.1\minimummoves.pdb
+C:\Users\Tech Jargon\source\repos\minimummoves\minimummoves\obj\Debug\netcoreapp3.1\minimummoves.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\soldier\soldier\obj\Debug\netcoreapp3.1\soldier.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\soldier\soldier\obj\Debug\netcoreapp3.1\soldier.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\soldier\soldier\obj\Debug\netcoreapp3.1\soldier.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\soldier\soldier\obj\Debug\netcoreapp3.1\soldier.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\soldier\soldier\bin\Debug\netcoreapp3.1\soldier.exe
+C:\Users\Tech Jargon\source\repos\soldier\soldier\bin\Debug\netcoreapp3.1\soldier.deps.json
+C:\Users\Tech Jargon\source\repos\soldier\soldier\bin\Debug\netcoreapp3.1\soldier.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\soldier\soldier\bin\Debug\netcoreapp3.1\soldier.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\soldier\soldier\bin\Debug\netcoreapp3.1\soldier.dll
+C:\Users\Tech Jargon\source\repos\soldier\soldier\bin\Debug\netcoreapp3.1\soldier.pdb
+C:\Users\Tech Jargon\source\repos\soldier\soldier\obj\Debug\netcoreapp3.1\soldier.dll
+C:\Users\Tech Jargon\source\repos\soldier\soldier\obj\Debug\netcoreapp3.1\soldier.pdb
+C:\Users\Tech Jargon\source\repos\soldier\soldier\obj\Debug\netcoreapp3.1\soldier.genruntimeconfig.cache

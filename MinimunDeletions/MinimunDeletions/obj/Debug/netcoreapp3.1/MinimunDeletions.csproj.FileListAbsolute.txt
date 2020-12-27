@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\bin\Debug\netcoreapp3.1\MinimunDeletions.exe
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\bin\Debug\netcoreapp3.1\MinimunDeletions.deps.json
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\bin\Debug\netcoreapp3.1\MinimunDeletions.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\bin\Debug\netcoreapp3.1\MinimunDeletions.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\bin\Debug\netcoreapp3.1\MinimunDeletions.dll
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\bin\Debug\netcoreapp3.1\MinimunDeletions.pdb
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\obj\Debug\netcoreapp3.1\MinimunDeletions.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\obj\Debug\netcoreapp3.1\MinimunDeletions.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\obj\Debug\netcoreapp3.1\MinimunDeletions.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\obj\Debug\netcoreapp3.1\MinimunDeletions.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\obj\Debug\netcoreapp3.1\MinimunDeletions.dll
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\obj\Debug\netcoreapp3.1\MinimunDeletions.pdb
+C:\Users\Tech Jargon\source\repos\MinimunDeletions\MinimunDeletions\obj\Debug\netcoreapp3.1\MinimunDeletions.genruntimeconfig.cache

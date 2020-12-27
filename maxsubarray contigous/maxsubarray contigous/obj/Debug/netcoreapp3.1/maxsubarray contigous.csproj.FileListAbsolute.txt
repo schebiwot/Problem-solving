@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\bin\Debug\netcoreapp3.1\maxsubarray contigous.exe
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\bin\Debug\netcoreapp3.1\maxsubarray contigous.deps.json
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\bin\Debug\netcoreapp3.1\maxsubarray contigous.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\bin\Debug\netcoreapp3.1\maxsubarray contigous.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\bin\Debug\netcoreapp3.1\maxsubarray contigous.dll
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\bin\Debug\netcoreapp3.1\maxsubarray contigous.pdb
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\obj\Debug\netcoreapp3.1\maxsubarray contigous.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\obj\Debug\netcoreapp3.1\maxsubarray contigous.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\obj\Debug\netcoreapp3.1\maxsubarray contigous.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\obj\Debug\netcoreapp3.1\maxsubarray contigous.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\obj\Debug\netcoreapp3.1\maxsubarray contigous.dll
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\obj\Debug\netcoreapp3.1\maxsubarray contigous.pdb
+C:\Users\Tech Jargon\source\repos\maxsubarray contigous\maxsubarray contigous\obj\Debug\netcoreapp3.1\maxsubarray contigous.genruntimeconfig.cache

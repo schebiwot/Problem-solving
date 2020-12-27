@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMbeLF66Xeosoba658S3qZsi6xPnOpWXkUr/onmDIrKM2ONY6T7GUDovfM3yZtyqfy8Tg/j+5aEfA3uloFNkWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\NonRepeatingCharacter\\NonRepeatingCharacter\\NonRepeatingCharacter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

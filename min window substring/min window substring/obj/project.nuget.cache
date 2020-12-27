@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "azpgHBIWkeoMPSZatx9dueeyQbiSk5xHSkhf2sJadv88dLYI7/bIe8igWrDP3mzj3fdmF8Vdj2WUKSddfp3jqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\min window substring\\min window substring\\min window substring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

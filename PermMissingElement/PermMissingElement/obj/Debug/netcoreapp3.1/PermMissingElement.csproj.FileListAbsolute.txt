@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\bin\Debug\netcoreapp3.1\PermMissingElement.exe
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\bin\Debug\netcoreapp3.1\PermMissingElement.deps.json
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\bin\Debug\netcoreapp3.1\PermMissingElement.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\bin\Debug\netcoreapp3.1\PermMissingElement.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\bin\Debug\netcoreapp3.1\PermMissingElement.dll
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\bin\Debug\netcoreapp3.1\PermMissingElement.pdb
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\obj\Debug\netcoreapp3.1\PermMissingElement.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\obj\Debug\netcoreapp3.1\PermMissingElement.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\obj\Debug\netcoreapp3.1\PermMissingElement.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\obj\Debug\netcoreapp3.1\PermMissingElement.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\obj\Debug\netcoreapp3.1\PermMissingElement.dll
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\obj\Debug\netcoreapp3.1\PermMissingElement.pdb
+C:\Users\Tech Jargon\source\repos\PermMissingElement\PermMissingElement\obj\Debug\netcoreapp3.1\PermMissingElement.genruntimeconfig.cache

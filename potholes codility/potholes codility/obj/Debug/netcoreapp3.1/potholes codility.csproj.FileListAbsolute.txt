@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\bin\Debug\netcoreapp3.1\potholes codility.exe
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\bin\Debug\netcoreapp3.1\potholes codility.deps.json
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\bin\Debug\netcoreapp3.1\potholes codility.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\bin\Debug\netcoreapp3.1\potholes codility.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\bin\Debug\netcoreapp3.1\potholes codility.dll
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\bin\Debug\netcoreapp3.1\potholes codility.pdb
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\obj\Debug\netcoreapp3.1\potholes codility.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\obj\Debug\netcoreapp3.1\potholes codility.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\obj\Debug\netcoreapp3.1\potholes codility.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\obj\Debug\netcoreapp3.1\potholes codility.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\obj\Debug\netcoreapp3.1\potholes codility.dll
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\obj\Debug\netcoreapp3.1\potholes codility.pdb
+C:\Users\Tech Jargon\source\repos\potholes codility\potholes codility\obj\Debug\netcoreapp3.1\potholes codility.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ol6mSEe8GmpomDTjOMUll2Mgmuh2AifMhBJ+l9ZM6+e3yxt8PuUCXo2d06GQ6Hpaly3NjGNez6nLPCUdlv9pSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\DiscIntersections\\DiscIntersections\\DiscIntersections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

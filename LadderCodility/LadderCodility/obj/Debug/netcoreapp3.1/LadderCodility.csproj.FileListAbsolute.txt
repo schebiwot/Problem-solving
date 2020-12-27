@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\bin\Debug\netcoreapp3.1\LadderCodility.exe
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\bin\Debug\netcoreapp3.1\LadderCodility.deps.json
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\bin\Debug\netcoreapp3.1\LadderCodility.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\bin\Debug\netcoreapp3.1\LadderCodility.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\bin\Debug\netcoreapp3.1\LadderCodility.dll
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\bin\Debug\netcoreapp3.1\LadderCodility.pdb
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\obj\Debug\netcoreapp3.1\LadderCodility.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\obj\Debug\netcoreapp3.1\LadderCodility.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\obj\Debug\netcoreapp3.1\LadderCodility.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\obj\Debug\netcoreapp3.1\LadderCodility.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\obj\Debug\netcoreapp3.1\LadderCodility.dll
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\obj\Debug\netcoreapp3.1\LadderCodility.pdb
+C:\Users\Tech Jargon\source\repos\LadderCodility\LadderCodility\obj\Debug\netcoreapp3.1\LadderCodility.genruntimeconfig.cache

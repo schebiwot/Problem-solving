@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.exe
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.deps.json
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.dll
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.pdb
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.dll
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.pdb
+C:\Users\Tech Jargon\source\repos\BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.genruntimeconfig.cache

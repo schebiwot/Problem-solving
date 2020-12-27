@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "88O8MjIYNvRz3ycN3G1yEd1ed26bq/29GLAPzDao4v2sVF3xsfJy48apCc2LY9HPsDlqUmjuJKJWA5uJlJ/Ctg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\BubbleSortDemo\\BubbleSortDemo\\BubbleSortDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

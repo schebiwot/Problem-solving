@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\bin\Debug\netcoreapp3.1\offlineIndex.exe
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\bin\Debug\netcoreapp3.1\offlineIndex.deps.json
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\bin\Debug\netcoreapp3.1\offlineIndex.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\bin\Debug\netcoreapp3.1\offlineIndex.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\bin\Debug\netcoreapp3.1\offlineIndex.dll
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\bin\Debug\netcoreapp3.1\offlineIndex.pdb
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\obj\Debug\netcoreapp3.1\offlineIndex.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\obj\Debug\netcoreapp3.1\offlineIndex.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\obj\Debug\netcoreapp3.1\offlineIndex.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\obj\Debug\netcoreapp3.1\offlineIndex.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\obj\Debug\netcoreapp3.1\offlineIndex.dll
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\obj\Debug\netcoreapp3.1\offlineIndex.pdb
+C:\Users\Tech Jargon\source\repos\offlineIndex\offlineIndex\obj\Debug\netcoreapp3.1\offlineIndex.genruntimeconfig.cache

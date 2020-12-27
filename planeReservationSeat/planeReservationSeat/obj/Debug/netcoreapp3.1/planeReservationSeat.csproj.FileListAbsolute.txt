@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\bin\Debug\netcoreapp3.1\planeReservationSeat.exe
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\bin\Debug\netcoreapp3.1\planeReservationSeat.deps.json
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\bin\Debug\netcoreapp3.1\planeReservationSeat.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\bin\Debug\netcoreapp3.1\planeReservationSeat.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\bin\Debug\netcoreapp3.1\planeReservationSeat.dll
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\bin\Debug\netcoreapp3.1\planeReservationSeat.pdb
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\obj\Debug\netcoreapp3.1\planeReservationSeat.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\obj\Debug\netcoreapp3.1\planeReservationSeat.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\obj\Debug\netcoreapp3.1\planeReservationSeat.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\obj\Debug\netcoreapp3.1\planeReservationSeat.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\obj\Debug\netcoreapp3.1\planeReservationSeat.dll
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\obj\Debug\netcoreapp3.1\planeReservationSeat.pdb
+C:\Users\Tech Jargon\source\repos\planeReservationSeat\planeReservationSeat\obj\Debug\netcoreapp3.1\planeReservationSeat.genruntimeconfig.cache

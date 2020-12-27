@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\bin\Debug\netcoreapp3.1\LCMGcd.exe
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\bin\Debug\netcoreapp3.1\LCMGcd.deps.json
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\bin\Debug\netcoreapp3.1\LCMGcd.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\bin\Debug\netcoreapp3.1\LCMGcd.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\bin\Debug\netcoreapp3.1\LCMGcd.dll
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\bin\Debug\netcoreapp3.1\LCMGcd.pdb
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\obj\Debug\netcoreapp3.1\LCMGcd.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\obj\Debug\netcoreapp3.1\LCMGcd.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\obj\Debug\netcoreapp3.1\LCMGcd.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\obj\Debug\netcoreapp3.1\LCMGcd.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\obj\Debug\netcoreapp3.1\LCMGcd.dll
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\obj\Debug\netcoreapp3.1\LCMGcd.pdb
+C:\Users\Tech Jargon\source\repos\LCMGcd\LCMGcd\obj\Debug\netcoreapp3.1\LCMGcd.genruntimeconfig.cache

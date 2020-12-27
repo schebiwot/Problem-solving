@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W41rCIuo0u0iv1OCJIsbbRfsQVyfyUf1aGsoHs5Oil410qj37YXHFhue5WXIjhR3ypxTxozikWv5Moo1l2KlPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\BitWise\\BitWise\\BitWise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

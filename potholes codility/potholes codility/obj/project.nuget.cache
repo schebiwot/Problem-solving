@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NB+Z/z5rWxfwbE9Ce68jXjTZdlD9WDww4Xf4Kvf+YWKCWtT2413lFXXt2CftfdUo5LpNsH95S+unEKCajHwbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\potholes codility\\potholes codility\\potholes codility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

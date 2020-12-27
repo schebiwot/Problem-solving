@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\bin\Debug\netcoreapp3.1\DiscIntersections.exe
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\bin\Debug\netcoreapp3.1\DiscIntersections.deps.json
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\bin\Debug\netcoreapp3.1\DiscIntersections.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\bin\Debug\netcoreapp3.1\DiscIntersections.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\bin\Debug\netcoreapp3.1\DiscIntersections.dll
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\bin\Debug\netcoreapp3.1\DiscIntersections.pdb
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\obj\Debug\netcoreapp3.1\DiscIntersections.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\obj\Debug\netcoreapp3.1\DiscIntersections.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\obj\Debug\netcoreapp3.1\DiscIntersections.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\obj\Debug\netcoreapp3.1\DiscIntersections.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\obj\Debug\netcoreapp3.1\DiscIntersections.dll
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\obj\Debug\netcoreapp3.1\DiscIntersections.pdb
+C:\Users\Tech Jargon\source\repos\DiscIntersections\DiscIntersections\obj\Debug\netcoreapp3.1\DiscIntersections.genruntimeconfig.cache

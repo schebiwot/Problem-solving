@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kp/QClpElufJ98piXTl8WF6yOWNY66jJdFSiJZbzYbz8RP7Ckx9hS6d9DqGl6I8YCRtlnNfsnB/e/FuQ4XzHpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\StrongPasswordChecker\\StrongPasswordChecker\\StrongPasswordChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

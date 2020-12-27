@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.exe
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.deps.json
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.dll
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\bin\Debug\netcoreapp3.1\TapeEquilibrium.pdb
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.dll
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.pdb
+C:\Users\Tech Jargon\source\repos\TapeEquilibrium\TapeEquilibrium\obj\Debug\netcoreapp3.1\TapeEquilibrium.genruntimeconfig.cache

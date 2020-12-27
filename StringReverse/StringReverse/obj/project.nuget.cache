@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XNCJVUmLQcu3XkxCQcdGoUYAylPEDB62VQR6hc6LUWEK6vRYzpz9mEFZ10uNZeIGS3269iyBpi9tbpTew6Aoig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\StringReverse\\StringReverse\\StringReverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

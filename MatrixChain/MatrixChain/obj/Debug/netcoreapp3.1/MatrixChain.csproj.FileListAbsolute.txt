@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\bin\Debug\netcoreapp3.1\MatrixChain.exe
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\bin\Debug\netcoreapp3.1\MatrixChain.deps.json
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\bin\Debug\netcoreapp3.1\MatrixChain.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\bin\Debug\netcoreapp3.1\MatrixChain.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\bin\Debug\netcoreapp3.1\MatrixChain.dll
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\bin\Debug\netcoreapp3.1\MatrixChain.pdb
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\obj\Debug\netcoreapp3.1\MatrixChain.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\obj\Debug\netcoreapp3.1\MatrixChain.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\obj\Debug\netcoreapp3.1\MatrixChain.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\obj\Debug\netcoreapp3.1\MatrixChain.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\obj\Debug\netcoreapp3.1\MatrixChain.dll
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\obj\Debug\netcoreapp3.1\MatrixChain.pdb
+C:\Users\Tech Jargon\source\repos\MatrixChain\MatrixChain\obj\Debug\netcoreapp3.1\MatrixChain.genruntimeconfig.cache

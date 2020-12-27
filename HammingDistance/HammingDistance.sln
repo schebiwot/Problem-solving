@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HammingDistance", "HammingDistance\HammingDistance.csproj", "{481B7435-D5CB-4A27-BEEE-1D27C2D28690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481B7435-D5CB-4A27-BEEE-1D27C2D28690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481B7435-D5CB-4A27-BEEE-1D27C2D28690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481B7435-D5CB-4A27-BEEE-1D27C2D28690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481B7435-D5CB-4A27-BEEE-1D27C2D28690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF0FAEA-E747-4B34-BB86-8384FF44E93E}
+	EndGlobalSection
+EndGlobal

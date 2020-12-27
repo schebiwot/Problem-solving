@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WMI5HxMNx7oy7kOrQDHDWdQRNAd4vaRdWoMCoeKHo+gsZbVpQ8e0DtAY+siNYa3rNcW5HZfHxvYakJYF5I1MrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\flood depth\\flood depth\\flood depth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\obj\Debug\netcoreapp3.1\ScaleBalancing.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\obj\Debug\netcoreapp3.1\ScaleBalancing.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\obj\Debug\netcoreapp3.1\ScaleBalancing.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\bin\Debug\netcoreapp3.1\ScaleBalancing.exe
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\bin\Debug\netcoreapp3.1\ScaleBalancing.deps.json
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\bin\Debug\netcoreapp3.1\ScaleBalancing.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\bin\Debug\netcoreapp3.1\ScaleBalancing.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\bin\Debug\netcoreapp3.1\ScaleBalancing.dll
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\bin\Debug\netcoreapp3.1\ScaleBalancing.pdb
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\obj\Debug\netcoreapp3.1\ScaleBalancing.dll
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\obj\Debug\netcoreapp3.1\ScaleBalancing.pdb
+C:\Users\Tech Jargon\source\repos\ScaleBalancing\ScaleBalancing\obj\Debug\netcoreapp3.1\ScaleBalancing.genruntimeconfig.cache

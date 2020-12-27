@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRhBBEhhmiuRfIJ5XGXuXeVDdtkyNLDdsH0uxzuQZZhYY+BX9ST6qer0PvofKpY3sr9P5bF4B1Og5q7Y8s+haw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\LongestIncreasingsequence\\LongestIncreasingsequence\\LongestIncreasingsequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

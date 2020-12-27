@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "smy7ehcvCC6eXim4aYRrBD7abl9uO+NZCZtjyLYvUDoj01l3Q3BjH4ft8z0rF9XDOXdRm0Jyfz2WVkADeRXw6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\TwoSortedArrayMedian\\TwoSortedArrayMedian\\TwoSortedArrayMedian.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

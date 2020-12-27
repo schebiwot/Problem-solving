@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Frogjmp/1.0.0": {
+        "runtime": {
+          "Frogjmp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Frogjmp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

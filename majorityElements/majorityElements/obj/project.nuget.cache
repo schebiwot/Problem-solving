@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vug7jP2kUEzY00c8bzhg/nUjEwvYyCmZv2N+8V4106XEOVZ1h/j5fmrNtS0Jv0m2YWc819A63ZdIPPjhW52hZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\majorityElements\\majorityElements\\majorityElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\bin\Debug\netcoreapp3.1\pixwls.exe
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\bin\Debug\netcoreapp3.1\pixwls.deps.json
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\bin\Debug\netcoreapp3.1\pixwls.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\bin\Debug\netcoreapp3.1\pixwls.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\bin\Debug\netcoreapp3.1\pixwls.dll
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\bin\Debug\netcoreapp3.1\pixwls.pdb
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\obj\Debug\netcoreapp3.1\pixwls.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\obj\Debug\netcoreapp3.1\pixwls.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\obj\Debug\netcoreapp3.1\pixwls.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\obj\Debug\netcoreapp3.1\pixwls.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\obj\Debug\netcoreapp3.1\pixwls.dll
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\obj\Debug\netcoreapp3.1\pixwls.pdb
+C:\Users\Tech Jargon\source\repos\pixwls\pixwls\obj\Debug\netcoreapp3.1\pixwls.genruntimeconfig.cache

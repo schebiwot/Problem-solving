@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMIzwi0/aXU39gQzupa3bW26v31p+WJJO2RdavxQ/CQzxuplWs2/l5mRvoIU6GkK6XRRqSmcu3A586cs+bt2dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\pixwls\\pixwls\\pixwls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\bin\Debug\netcoreapp3.1\OffLineMinimum.exe
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\bin\Debug\netcoreapp3.1\OffLineMinimum.deps.json
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\bin\Debug\netcoreapp3.1\OffLineMinimum.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\bin\Debug\netcoreapp3.1\OffLineMinimum.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\bin\Debug\netcoreapp3.1\OffLineMinimum.dll
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\bin\Debug\netcoreapp3.1\OffLineMinimum.pdb
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\obj\Debug\netcoreapp3.1\OffLineMinimum.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\obj\Debug\netcoreapp3.1\OffLineMinimum.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\obj\Debug\netcoreapp3.1\OffLineMinimum.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\obj\Debug\netcoreapp3.1\OffLineMinimum.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\obj\Debug\netcoreapp3.1\OffLineMinimum.dll
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\obj\Debug\netcoreapp3.1\OffLineMinimum.pdb
+C:\Users\Tech Jargon\source\repos\OffLineMinimum\OffLineMinimum\obj\Debug\netcoreapp3.1\OffLineMinimum.genruntimeconfig.cache

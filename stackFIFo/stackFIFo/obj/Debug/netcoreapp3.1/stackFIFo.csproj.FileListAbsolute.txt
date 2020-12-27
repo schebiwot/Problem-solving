@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\bin\Debug\netcoreapp3.1\stackFIFo.exe
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\bin\Debug\netcoreapp3.1\stackFIFo.deps.json
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\bin\Debug\netcoreapp3.1\stackFIFo.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\bin\Debug\netcoreapp3.1\stackFIFo.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\bin\Debug\netcoreapp3.1\stackFIFo.dll
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\bin\Debug\netcoreapp3.1\stackFIFo.pdb
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\obj\Debug\netcoreapp3.1\stackFIFo.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\obj\Debug\netcoreapp3.1\stackFIFo.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\obj\Debug\netcoreapp3.1\stackFIFo.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\obj\Debug\netcoreapp3.1\stackFIFo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\obj\Debug\netcoreapp3.1\stackFIFo.dll
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\obj\Debug\netcoreapp3.1\stackFIFo.pdb
+C:\Users\Tech Jargon\source\repos\stackFIFo\stackFIFo\obj\Debug\netcoreapp3.1\stackFIFo.genruntimeconfig.cache

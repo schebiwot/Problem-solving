@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\bin\Debug\netcoreapp3.1\Frogjmp.exe
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\bin\Debug\netcoreapp3.1\Frogjmp.deps.json
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\bin\Debug\netcoreapp3.1\Frogjmp.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\bin\Debug\netcoreapp3.1\Frogjmp.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\bin\Debug\netcoreapp3.1\Frogjmp.dll
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\bin\Debug\netcoreapp3.1\Frogjmp.pdb
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\obj\Debug\netcoreapp3.1\Frogjmp.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\obj\Debug\netcoreapp3.1\Frogjmp.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\obj\Debug\netcoreapp3.1\Frogjmp.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\obj\Debug\netcoreapp3.1\Frogjmp.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\obj\Debug\netcoreapp3.1\Frogjmp.dll
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\obj\Debug\netcoreapp3.1\Frogjmp.pdb
+C:\Users\Tech Jargon\source\repos\Frogjmp\Frogjmp\obj\Debug\netcoreapp3.1\Frogjmp.genruntimeconfig.cache

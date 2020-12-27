@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4In3bOJbnyfO9lXRvvKBgNc3QU50Aea3wW9D5pgPyF3ytW+H03to2fkskolTdtc7gJVh1bO3DLdMWZPLlVHog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\MatrixChain\\MatrixChain\\MatrixChain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

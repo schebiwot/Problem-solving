@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\bin\Debug\netcoreapp3.1\countsemiprimes.exe
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\bin\Debug\netcoreapp3.1\countsemiprimes.deps.json
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\bin\Debug\netcoreapp3.1\countsemiprimes.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\bin\Debug\netcoreapp3.1\countsemiprimes.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\bin\Debug\netcoreapp3.1\countsemiprimes.dll
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\bin\Debug\netcoreapp3.1\countsemiprimes.pdb
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\obj\Debug\netcoreapp3.1\countsemiprimes.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\obj\Debug\netcoreapp3.1\countsemiprimes.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\obj\Debug\netcoreapp3.1\countsemiprimes.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\obj\Debug\netcoreapp3.1\countsemiprimes.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\obj\Debug\netcoreapp3.1\countsemiprimes.dll
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\obj\Debug\netcoreapp3.1\countsemiprimes.pdb
+C:\Users\Tech Jargon\source\repos\countsemiprimes\countsemiprimes\obj\Debug\netcoreapp3.1\countsemiprimes.genruntimeconfig.cache

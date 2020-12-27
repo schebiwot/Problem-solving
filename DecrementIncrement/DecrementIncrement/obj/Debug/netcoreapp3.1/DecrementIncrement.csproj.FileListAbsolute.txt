@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\bin\Debug\netcoreapp3.1\DecrementIncrement.exe
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\bin\Debug\netcoreapp3.1\DecrementIncrement.deps.json
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\bin\Debug\netcoreapp3.1\DecrementIncrement.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\bin\Debug\netcoreapp3.1\DecrementIncrement.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\bin\Debug\netcoreapp3.1\DecrementIncrement.dll
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\bin\Debug\netcoreapp3.1\DecrementIncrement.pdb
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\obj\Debug\netcoreapp3.1\DecrementIncrement.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\obj\Debug\netcoreapp3.1\DecrementIncrement.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\obj\Debug\netcoreapp3.1\DecrementIncrement.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\obj\Debug\netcoreapp3.1\DecrementIncrement.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\obj\Debug\netcoreapp3.1\DecrementIncrement.dll
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\obj\Debug\netcoreapp3.1\DecrementIncrement.pdb
+C:\Users\Tech Jargon\source\repos\DecrementIncrement\DecrementIncrement\obj\Debug\netcoreapp3.1\DecrementIncrement.genruntimeconfig.cache

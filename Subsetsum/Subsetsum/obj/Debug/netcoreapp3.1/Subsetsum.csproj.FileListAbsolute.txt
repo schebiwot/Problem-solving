@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\obj\Debug\netcoreapp3.1\Subsetsum.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\obj\Debug\netcoreapp3.1\Subsetsum.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\obj\Debug\netcoreapp3.1\Subsetsum.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\obj\Debug\netcoreapp3.1\Subsetsum.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\bin\Debug\netcoreapp3.1\Subsetsum.exe
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\bin\Debug\netcoreapp3.1\Subsetsum.deps.json
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\bin\Debug\netcoreapp3.1\Subsetsum.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\bin\Debug\netcoreapp3.1\Subsetsum.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\bin\Debug\netcoreapp3.1\Subsetsum.dll
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\bin\Debug\netcoreapp3.1\Subsetsum.pdb
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\obj\Debug\netcoreapp3.1\Subsetsum.dll
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\obj\Debug\netcoreapp3.1\Subsetsum.pdb
+C:\Users\Tech Jargon\source\repos\Subsetsum\Subsetsum\obj\Debug\netcoreapp3.1\Subsetsum.genruntimeconfig.cache

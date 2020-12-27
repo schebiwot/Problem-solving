@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\bin\Debug\netcoreapp3.1\LinearSearchDemo.exe
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\bin\Debug\netcoreapp3.1\LinearSearchDemo.deps.json
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\bin\Debug\netcoreapp3.1\LinearSearchDemo.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\bin\Debug\netcoreapp3.1\LinearSearchDemo.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\bin\Debug\netcoreapp3.1\LinearSearchDemo.dll
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\bin\Debug\netcoreapp3.1\LinearSearchDemo.pdb
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\obj\Debug\netcoreapp3.1\LinearSearchDemo.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\obj\Debug\netcoreapp3.1\LinearSearchDemo.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\obj\Debug\netcoreapp3.1\LinearSearchDemo.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\obj\Debug\netcoreapp3.1\LinearSearchDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\obj\Debug\netcoreapp3.1\LinearSearchDemo.dll
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\obj\Debug\netcoreapp3.1\LinearSearchDemo.pdb
+C:\Users\Tech Jargon\source\repos\LinearSearchDemo\LinearSearchDemo\obj\Debug\netcoreapp3.1\LinearSearchDemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\obj\Debug\netcoreapp3.1\PrimeChecker.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\obj\Debug\netcoreapp3.1\PrimeChecker.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\obj\Debug\netcoreapp3.1\PrimeChecker.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\obj\Debug\netcoreapp3.1\PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\bin\Debug\netcoreapp3.1\PrimeChecker.exe
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\bin\Debug\netcoreapp3.1\PrimeChecker.deps.json
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\bin\Debug\netcoreapp3.1\PrimeChecker.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\bin\Debug\netcoreapp3.1\PrimeChecker.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\bin\Debug\netcoreapp3.1\PrimeChecker.dll
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\bin\Debug\netcoreapp3.1\PrimeChecker.pdb
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\obj\Debug\netcoreapp3.1\PrimeChecker.dll
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\obj\Debug\netcoreapp3.1\PrimeChecker.pdb
+C:\Users\Tech Jargon\source\repos\PrimeChecker\PrimeChecker\obj\Debug\netcoreapp3.1\PrimeChecker.genruntimeconfig.cache

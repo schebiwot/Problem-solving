@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\bin\Debug\netcoreapp3.1\PostfixPrefix.exe
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\bin\Debug\netcoreapp3.1\PostfixPrefix.deps.json
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\bin\Debug\netcoreapp3.1\PostfixPrefix.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\bin\Debug\netcoreapp3.1\PostfixPrefix.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\bin\Debug\netcoreapp3.1\PostfixPrefix.dll
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\bin\Debug\netcoreapp3.1\PostfixPrefix.pdb
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\obj\Debug\netcoreapp3.1\PostfixPrefix.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\obj\Debug\netcoreapp3.1\PostfixPrefix.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\obj\Debug\netcoreapp3.1\PostfixPrefix.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\obj\Debug\netcoreapp3.1\PostfixPrefix.dll
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\obj\Debug\netcoreapp3.1\PostfixPrefix.pdb
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\obj\Debug\netcoreapp3.1\PostfixPrefix.genruntimeconfig.cache
+C:\Users\Tech Jargon\source\repos\PostfixPrefix\PostfixPrefix\obj\Debug\netcoreapp3.1\PostfixPrefix.csprojAssemblyReference.cache

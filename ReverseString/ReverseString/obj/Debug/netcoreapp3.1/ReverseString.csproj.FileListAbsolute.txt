@@ -1,0 +1,4 @@
+C:\Users\Tech Jargon\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.cs

@@ -1,0 +1,12 @@
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.exe
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.deps.json
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.dll
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.pdb
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.dll
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.pdb
+C:\Users\Tech Jargon\source\repos\StringReverse\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.genruntimeconfig.cache

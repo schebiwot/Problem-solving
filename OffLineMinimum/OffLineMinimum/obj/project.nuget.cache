@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/53smSrwZXI892Wvl0lcsSvqElqwQsbDVWxe6SVL4iIRnTQcyKUxxMi4AT/9xHhY5KRXZlmnDeQVTIM/t8TwYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\OffLineMinimum\\OffLineMinimum\\OffLineMinimum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

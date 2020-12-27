@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\obj\Debug\netcoreapp3.1\missingInteger.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\obj\Debug\netcoreapp3.1\missingInteger.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\obj\Debug\netcoreapp3.1\missingInteger.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\bin\Debug\netcoreapp3.1\missingInteger.exe
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\bin\Debug\netcoreapp3.1\missingInteger.deps.json
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\bin\Debug\netcoreapp3.1\missingInteger.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\bin\Debug\netcoreapp3.1\missingInteger.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\bin\Debug\netcoreapp3.1\missingInteger.dll
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\bin\Debug\netcoreapp3.1\missingInteger.pdb
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\obj\Debug\netcoreapp3.1\missingInteger.dll
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\obj\Debug\netcoreapp3.1\missingInteger.pdb
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\obj\Debug\netcoreapp3.1\missingInteger.genruntimeconfig.cache
+C:\Users\Tech Jargon\source\repos\missingInteger\missingInteger\obj\Debug\netcoreapp3.1\missingInteger.csprojAssemblyReference.cache

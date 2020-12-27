@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLyze9gx0tknhokQ45RWICl8SQBlxAjo33dUBgPS7Lg6FIPZ78JS2f2Qgpv7jUrzzxxASTRtUD3UA/H9PxP2zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\PrimeChecker\\PrimeChecker\\PrimeChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

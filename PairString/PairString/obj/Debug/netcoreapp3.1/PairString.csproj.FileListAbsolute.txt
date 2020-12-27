@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\PairString\PairString\bin\Debug\netcoreapp3.1\PairString.exe
+C:\Users\Tech Jargon\source\repos\PairString\PairString\bin\Debug\netcoreapp3.1\PairString.deps.json
+C:\Users\Tech Jargon\source\repos\PairString\PairString\bin\Debug\netcoreapp3.1\PairString.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\PairString\PairString\bin\Debug\netcoreapp3.1\PairString.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\PairString\PairString\bin\Debug\netcoreapp3.1\PairString.dll
+C:\Users\Tech Jargon\source\repos\PairString\PairString\bin\Debug\netcoreapp3.1\PairString.pdb
+C:\Users\Tech Jargon\source\repos\PairString\PairString\obj\Debug\netcoreapp3.1\PairString.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\PairString\PairString\obj\Debug\netcoreapp3.1\PairString.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\PairString\PairString\obj\Debug\netcoreapp3.1\PairString.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\PairString\PairString\obj\Debug\netcoreapp3.1\PairString.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\PairString\PairString\obj\Debug\netcoreapp3.1\PairString.dll
+C:\Users\Tech Jargon\source\repos\PairString\PairString\obj\Debug\netcoreapp3.1\PairString.pdb
+C:\Users\Tech Jargon\source\repos\PairString\PairString\obj\Debug\netcoreapp3.1\PairString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.exe
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.deps.json
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.dll
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\bin\Debug\netcoreapp3.1\QueueDemo.pdb
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.dll
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.pdb
+C:\Users\Tech Jargon\source\repos\QueueDemo\QueueDemo\obj\Debug\netcoreapp3.1\QueueDemo.genruntimeconfig.cache

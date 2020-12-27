@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AjNXxFiDUxASTzk22lB/RK+FhmV3Zfjgk3ISERRk3Cll/I7zvDrOYpxd7xfaHXrOKpiMY4uu6iGWrp6foaPcdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\multiplenumber\\multiplenumber\\multiplenumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

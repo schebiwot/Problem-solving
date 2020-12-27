@@ -1,0 +1,12 @@
+C:\Users\Tech Jargon\source\repos\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.exe
+C:\Users\Tech Jargon\source\repos\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.deps.json
+C:\Users\Tech Jargon\source\repos\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.dll
+C:\Users\Tech Jargon\source\repos\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.pdb
+C:\Users\Tech Jargon\source\repos\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.dll
+C:\Users\Tech Jargon\source\repos\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.pdb
+C:\Users\Tech Jargon\source\repos\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.genruntimeconfig.cache

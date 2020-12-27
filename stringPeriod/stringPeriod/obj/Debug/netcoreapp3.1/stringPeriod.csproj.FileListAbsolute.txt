@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\bin\Debug\netcoreapp3.1\stringPeriod.exe
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\bin\Debug\netcoreapp3.1\stringPeriod.deps.json
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\bin\Debug\netcoreapp3.1\stringPeriod.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\bin\Debug\netcoreapp3.1\stringPeriod.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\bin\Debug\netcoreapp3.1\stringPeriod.dll
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\bin\Debug\netcoreapp3.1\stringPeriod.pdb
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\obj\Debug\netcoreapp3.1\stringPeriod.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\obj\Debug\netcoreapp3.1\stringPeriod.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\obj\Debug\netcoreapp3.1\stringPeriod.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\obj\Debug\netcoreapp3.1\stringPeriod.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\obj\Debug\netcoreapp3.1\stringPeriod.dll
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\obj\Debug\netcoreapp3.1\stringPeriod.pdb
+C:\Users\Tech Jargon\source\repos\stringPeriod\stringPeriod\obj\Debug\netcoreapp3.1\stringPeriod.genruntimeconfig.cache

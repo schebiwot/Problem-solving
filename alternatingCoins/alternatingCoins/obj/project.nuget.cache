@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZAEQRlibG/D3iFvvGmqbITv5eJlU7p30ollJWFF0ewubl6uzKBlMpP2fMOZ7inVr0st3a2pA/uoNNOLNinmRXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\alternatingCoins\\alternatingCoins\\alternatingCoins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

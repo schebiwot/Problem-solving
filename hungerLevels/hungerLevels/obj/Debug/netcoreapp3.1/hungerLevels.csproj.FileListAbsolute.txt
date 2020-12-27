@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\bin\Debug\netcoreapp3.1\hungerLevels.exe
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\bin\Debug\netcoreapp3.1\hungerLevels.deps.json
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\bin\Debug\netcoreapp3.1\hungerLevels.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\bin\Debug\netcoreapp3.1\hungerLevels.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\bin\Debug\netcoreapp3.1\hungerLevels.dll
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\bin\Debug\netcoreapp3.1\hungerLevels.pdb
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\obj\Debug\netcoreapp3.1\hungerLevels.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\obj\Debug\netcoreapp3.1\hungerLevels.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\obj\Debug\netcoreapp3.1\hungerLevels.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\obj\Debug\netcoreapp3.1\hungerLevels.dll
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\obj\Debug\netcoreapp3.1\hungerLevels.pdb
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\obj\Debug\netcoreapp3.1\hungerLevels.genruntimeconfig.cache
+C:\Users\Tech Jargon\source\repos\hungerLevels\hungerLevels\obj\Debug\netcoreapp3.1\hungerLevels.csproj.CoreCompileInputs.cache

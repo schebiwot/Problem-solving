@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\bin\Debug\netcoreapp3.1\ScaleWeightBalance.exe
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\bin\Debug\netcoreapp3.1\ScaleWeightBalance.deps.json
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\bin\Debug\netcoreapp3.1\ScaleWeightBalance.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\bin\Debug\netcoreapp3.1\ScaleWeightBalance.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\bin\Debug\netcoreapp3.1\ScaleWeightBalance.dll
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\bin\Debug\netcoreapp3.1\ScaleWeightBalance.pdb
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\obj\Debug\netcoreapp3.1\ScaleWeightBalance.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\obj\Debug\netcoreapp3.1\ScaleWeightBalance.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\obj\Debug\netcoreapp3.1\ScaleWeightBalance.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\obj\Debug\netcoreapp3.1\ScaleWeightBalance.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\obj\Debug\netcoreapp3.1\ScaleWeightBalance.dll
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\obj\Debug\netcoreapp3.1\ScaleWeightBalance.pdb
+C:\Users\Tech Jargon\source\repos\ScaleWeightBalance\ScaleWeightBalance\obj\Debug\netcoreapp3.1\ScaleWeightBalance.genruntimeconfig.cache

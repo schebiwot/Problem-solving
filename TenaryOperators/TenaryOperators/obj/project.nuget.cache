@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxXIx1LlH25o9ydC1QOW8nNy2Agj2BOWzArYo+uMqIgXTjOGS91v9Po7y0VANUr1G5VINPjm0/CGAtexon+BKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\TenaryOperators\\TenaryOperators\\TenaryOperators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

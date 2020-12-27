@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\bin\Debug\netcoreapp3.1\StudentsCourse.exe
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\bin\Debug\netcoreapp3.1\StudentsCourse.deps.json
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\bin\Debug\netcoreapp3.1\StudentsCourse.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\bin\Debug\netcoreapp3.1\StudentsCourse.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\bin\Debug\netcoreapp3.1\StudentsCourse.dll
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\bin\Debug\netcoreapp3.1\StudentsCourse.pdb
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\obj\Debug\netcoreapp3.1\StudentsCourse.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\obj\Debug\netcoreapp3.1\StudentsCourse.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\obj\Debug\netcoreapp3.1\StudentsCourse.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\obj\Debug\netcoreapp3.1\StudentsCourse.dll
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\obj\Debug\netcoreapp3.1\StudentsCourse.pdb
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\obj\Debug\netcoreapp3.1\StudentsCourse.genruntimeconfig.cache
+C:\Users\Tech Jargon\source\repos\StudentsCourse\StudentsCourse\obj\Debug\netcoreapp3.1\StudentsCourse.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Tech Jargon\source\repos\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.exe
+C:\Users\Tech Jargon\source\repos\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.deps.json
+C:\Users\Tech Jargon\source\repos\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.dll
+C:\Users\Tech Jargon\source\repos\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.pdb
+C:\Users\Tech Jargon\source\repos\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.dll
+C:\Users\Tech Jargon\source\repos\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.pdb
+C:\Users\Tech Jargon\source\repos\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.genruntimeconfig.cache

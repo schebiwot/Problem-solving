@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\bin\Debug\netcoreapp3.1\FactoryPollutionCodility.exe
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\bin\Debug\netcoreapp3.1\FactoryPollutionCodility.deps.json
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\bin\Debug\netcoreapp3.1\FactoryPollutionCodility.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\bin\Debug\netcoreapp3.1\FactoryPollutionCodility.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\bin\Debug\netcoreapp3.1\FactoryPollutionCodility.dll
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\bin\Debug\netcoreapp3.1\FactoryPollutionCodility.pdb
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\obj\Debug\netcoreapp3.1\FactoryPollutionCodility.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\obj\Debug\netcoreapp3.1\FactoryPollutionCodility.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\obj\Debug\netcoreapp3.1\FactoryPollutionCodility.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\obj\Debug\netcoreapp3.1\FactoryPollutionCodility.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\obj\Debug\netcoreapp3.1\FactoryPollutionCodility.dll
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\obj\Debug\netcoreapp3.1\FactoryPollutionCodility.pdb
+C:\Users\Tech Jargon\source\repos\FactoryPollutionCodility\FactoryPollutionCodility\obj\Debug\netcoreapp3.1\FactoryPollutionCodility.genruntimeconfig.cache

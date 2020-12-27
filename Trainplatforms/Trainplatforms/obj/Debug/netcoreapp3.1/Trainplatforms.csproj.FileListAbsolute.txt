@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\bin\Debug\netcoreapp3.1\Trainplatforms.exe
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\bin\Debug\netcoreapp3.1\Trainplatforms.deps.json
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\bin\Debug\netcoreapp3.1\Trainplatforms.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\bin\Debug\netcoreapp3.1\Trainplatforms.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\bin\Debug\netcoreapp3.1\Trainplatforms.dll
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\bin\Debug\netcoreapp3.1\Trainplatforms.pdb
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\obj\Debug\netcoreapp3.1\Trainplatforms.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\obj\Debug\netcoreapp3.1\Trainplatforms.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\obj\Debug\netcoreapp3.1\Trainplatforms.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\obj\Debug\netcoreapp3.1\Trainplatforms.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\obj\Debug\netcoreapp3.1\Trainplatforms.dll
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\obj\Debug\netcoreapp3.1\Trainplatforms.pdb
+C:\Users\Tech Jargon\source\repos\Trainplatforms\Trainplatforms\obj\Debug\netcoreapp3.1\Trainplatforms.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.exe
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.deps.json
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.dll
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.pdb
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.dll
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.pdb
+C:\Users\Tech Jargon\source\repos\StackDemo\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.genruntimeconfig.cache

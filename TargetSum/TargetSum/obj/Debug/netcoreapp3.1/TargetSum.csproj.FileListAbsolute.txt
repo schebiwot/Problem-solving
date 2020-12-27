@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\bin\Debug\netcoreapp3.1\TargetSum.exe
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\bin\Debug\netcoreapp3.1\TargetSum.deps.json
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\bin\Debug\netcoreapp3.1\TargetSum.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\bin\Debug\netcoreapp3.1\TargetSum.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\bin\Debug\netcoreapp3.1\TargetSum.dll
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\bin\Debug\netcoreapp3.1\TargetSum.pdb
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\obj\Debug\netcoreapp3.1\TargetSum.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\obj\Debug\netcoreapp3.1\TargetSum.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\obj\Debug\netcoreapp3.1\TargetSum.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\obj\Debug\netcoreapp3.1\TargetSum.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\obj\Debug\netcoreapp3.1\TargetSum.dll
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\obj\Debug\netcoreapp3.1\TargetSum.pdb
+C:\Users\Tech Jargon\source\repos\TargetSum\TargetSum\obj\Debug\netcoreapp3.1\TargetSum.genruntimeconfig.cache

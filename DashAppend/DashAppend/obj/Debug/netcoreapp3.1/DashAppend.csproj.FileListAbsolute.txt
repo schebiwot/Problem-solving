@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\bin\Debug\netcoreapp3.1\DashAppend.exe
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\bin\Debug\netcoreapp3.1\DashAppend.deps.json
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\bin\Debug\netcoreapp3.1\DashAppend.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\bin\Debug\netcoreapp3.1\DashAppend.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\bin\Debug\netcoreapp3.1\DashAppend.dll
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\bin\Debug\netcoreapp3.1\DashAppend.pdb
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\obj\Debug\netcoreapp3.1\DashAppend.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\obj\Debug\netcoreapp3.1\DashAppend.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\obj\Debug\netcoreapp3.1\DashAppend.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\obj\Debug\netcoreapp3.1\DashAppend.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\obj\Debug\netcoreapp3.1\DashAppend.dll
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\obj\Debug\netcoreapp3.1\DashAppend.pdb
+C:\Users\Tech Jargon\source\repos\DashAppend\DashAppend\obj\Debug\netcoreapp3.1\DashAppend.genruntimeconfig.cache

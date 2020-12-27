@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frogjmp", "Frogjmp\Frogjmp.csproj", "{A4854D2A-8075-4F05-90B0-FFDF24E2FC14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4854D2A-8075-4F05-90B0-FFDF24E2FC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4854D2A-8075-4F05-90B0-FFDF24E2FC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4854D2A-8075-4F05-90B0-FFDF24E2FC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4854D2A-8075-4F05-90B0-FFDF24E2FC14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC43A92-0BA9-4277-9E52-0441F8E0F2D3}
+	EndGlobalSection
+EndGlobal

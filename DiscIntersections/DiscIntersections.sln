@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscIntersections", "DiscIntersections\DiscIntersections.csproj", "{98CCA750-9D00-4396-9517-2164A4FBBA13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98CCA750-9D00-4396-9517-2164A4FBBA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CCA750-9D00-4396-9517-2164A4FBBA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CCA750-9D00-4396-9517-2164A4FBBA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CCA750-9D00-4396-9517-2164A4FBBA13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1246ADF3-2AF7-4BFA-AC73-437D47B5AD93}
+	EndGlobalSection
+EndGlobal

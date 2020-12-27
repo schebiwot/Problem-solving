@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUtmDghNic4MHt0nLY4e8vVni9jkys9fPV33sjroAbmpi26FEVhAZrpjQVO1fy3NvU4+/KtEdFa/t4JCdlXtsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech Jargon\\source\\repos\\OffBinary\\OffBinary\\OffBinary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech Jargon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

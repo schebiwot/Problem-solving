@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\bin\Debug\netcoreapp3.1\bugFix.exe
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\bin\Debug\netcoreapp3.1\bugFix.deps.json
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\bin\Debug\netcoreapp3.1\bugFix.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\bin\Debug\netcoreapp3.1\bugFix.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\bin\Debug\netcoreapp3.1\bugFix.dll
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\bin\Debug\netcoreapp3.1\bugFix.pdb
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\obj\Debug\netcoreapp3.1\bugFix.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\obj\Debug\netcoreapp3.1\bugFix.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\obj\Debug\netcoreapp3.1\bugFix.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\obj\Debug\netcoreapp3.1\bugFix.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\obj\Debug\netcoreapp3.1\bugFix.dll
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\obj\Debug\netcoreapp3.1\bugFix.pdb
+C:\Users\Tech Jargon\source\repos\bugFix\bugFix\obj\Debug\netcoreapp3.1\bugFix.genruntimeconfig.cache

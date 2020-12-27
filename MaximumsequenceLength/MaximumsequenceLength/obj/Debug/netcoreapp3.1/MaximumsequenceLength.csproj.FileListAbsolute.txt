@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\bin\Debug\netcoreapp3.1\MaximumsequenceLength.exe
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\bin\Debug\netcoreapp3.1\MaximumsequenceLength.deps.json
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\bin\Debug\netcoreapp3.1\MaximumsequenceLength.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\bin\Debug\netcoreapp3.1\MaximumsequenceLength.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\bin\Debug\netcoreapp3.1\MaximumsequenceLength.dll
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\bin\Debug\netcoreapp3.1\MaximumsequenceLength.pdb
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\obj\Debug\netcoreapp3.1\MaximumsequenceLength.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\obj\Debug\netcoreapp3.1\MaximumsequenceLength.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\obj\Debug\netcoreapp3.1\MaximumsequenceLength.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\obj\Debug\netcoreapp3.1\MaximumsequenceLength.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\obj\Debug\netcoreapp3.1\MaximumsequenceLength.dll
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\obj\Debug\netcoreapp3.1\MaximumsequenceLength.pdb
+C:\Users\Tech Jargon\source\repos\MaximumsequenceLength\MaximumsequenceLength\obj\Debug\netcoreapp3.1\MaximumsequenceLength.genruntimeconfig.cache

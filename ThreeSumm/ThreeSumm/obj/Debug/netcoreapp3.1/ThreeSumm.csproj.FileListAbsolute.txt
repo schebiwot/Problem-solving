@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\bin\Debug\netcoreapp3.1\ThreeSumm.exe
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\bin\Debug\netcoreapp3.1\ThreeSumm.deps.json
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\bin\Debug\netcoreapp3.1\ThreeSumm.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\bin\Debug\netcoreapp3.1\ThreeSumm.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\bin\Debug\netcoreapp3.1\ThreeSumm.dll
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\bin\Debug\netcoreapp3.1\ThreeSumm.pdb
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\obj\Debug\netcoreapp3.1\ThreeSumm.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\obj\Debug\netcoreapp3.1\ThreeSumm.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\obj\Debug\netcoreapp3.1\ThreeSumm.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\obj\Debug\netcoreapp3.1\ThreeSumm.dll
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\obj\Debug\netcoreapp3.1\ThreeSumm.pdb
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\obj\Debug\netcoreapp3.1\ThreeSumm.genruntimeconfig.cache
+C:\Users\Tech Jargon\source\repos\ThreeSumm\ThreeSumm\obj\Debug\netcoreapp3.1\ThreeSumm.csprojAssemblyReference.cache
